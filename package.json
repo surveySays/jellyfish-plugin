@@ -1,16 +1,15 @@
 {
-  "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "JellyFish Lighting Plugin",
+  "name": "homebridge-plugin-jellyfish-lighting",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "This plugin allows HomeBridge and HomeKit access to the JellyFish Lighting API",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/surveySays/jellyfish-plugin"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/surveySays/jellyfish-plugin/issues"
   },
   "engines": {
     "node": ">=14.18.1",
